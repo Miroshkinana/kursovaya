@@ -1,0 +1,11 @@
+Model Information:
+* title:	MOSTACHE
+* source:	https://sketchfab.com/3d-models/mostache-61f34dcad95b450d9cc95456f3b93072
+* author:	vajidkm (https://sketchfab.com/vajidkm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MOSTACHE" (https://sketchfab.com/3d-models/mostache-61f34dcad95b450d9cc95456f3b93072) by vajidkm (https://sketchfab.com/vajidkm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

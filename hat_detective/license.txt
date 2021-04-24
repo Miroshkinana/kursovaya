@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hat detective
+* source:	https://sketchfab.com/3d-models/hat-detective-8ec0691620f1414ca738ed3fb77a28f6
+* author:	OfferOK (https://sketchfab.com/OfferOK)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hat detective" (https://sketchfab.com/3d-models/hat-detective-8ec0691620f1414ca738ed3fb77a28f6) by OfferOK (https://sketchfab.com/OfferOK) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
